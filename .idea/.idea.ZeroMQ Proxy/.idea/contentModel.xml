@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kleme\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kleme\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ZeroMQ Proxy.-994290068.00" t="ExcludeRecursive" />
+    <e p="E:\Unity Projects\AR9\ZeroMQ Proxy" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NetMqPublisher.cs" t="Include" />
+        <e p="Packages" t="Include">
+          <e p="NaCl.Net.0.1.13" t="Include">
+            <e p="lib" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="NaCl.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="NetMQ.4.0.1.6" t="Include">
+            <e p="lib" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="NetMQ.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="System.Buffers.4.4.0" t="Include">
+            <e p="lib" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="System.Buffers.xml" t="Include" />
+              </e>
+            </e>
+            <e p="useSharedDesignerContext.txt" t="Include" />
+            <e p="version.txt" t="Include" />
+          </e>
+          <e p="System.Memory.4.5.3" t="Include">
+            <e p="lib" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="System.Memory.xml" t="Include" />
+              </e>
+            </e>
+            <e p="useSharedDesignerContext.txt" t="Include" />
+            <e p="version.txt" t="Include" />
+          </e>
+          <e p="System.Runtime.CompilerServices.Unsafe.4.5.3" t="Include">
+            <e p="lib" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+              </e>
+            </e>
+            <e p="useSharedDesignerContext.txt" t="Include" />
+            <e p="version.txt" t="Include" />
+          </e>
+          <e p="System.Threading.Tasks.Extensions.4.5.4" t="Include">
+            <e p="lib" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="System.Threading.Tasks.Extensions.xml" t="Include" />
+              </e>
+            </e>
+            <e p="useSharedDesignerContext.txt" t="Include" />
+            <e p="version.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ZeroMQProxyServer.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="ZeroMQ Proxy.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
